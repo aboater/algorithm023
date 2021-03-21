@@ -45,6 +45,7 @@ class Solution1 {
             }
             k++;
         }
+        
 
         while (i < mid) {
             memory[k] = nums[i];
